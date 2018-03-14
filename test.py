@@ -229,6 +229,10 @@ big_xyz_atom = big_xyz_atom.merge(molsdf,
                                   right_index=True,
                                   left_index=True,
                                   how='left')
+shared = pd.merge(big_xyz_atom, xyz_atoms, how='inner', on=['X', 'Y', 'Z'])
+shared.drop(['Atom_y'], axis=1, inplace=True)
+shared.rename(columns={'Atom_x': 'Atom'}, inplace=True)
+
 '''
 Next....need to compare atoms that are present in both big_xyz_atom and xyz_atom. 
 For molecules in big_xyz_atom, where atoms are present in xyz_atom...
