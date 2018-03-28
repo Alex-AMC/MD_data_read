@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3bd144de-e829-40e4-9000-69dbcc55334c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+=======
+    <list default="true" id="3bd144de-e829-40e4-9000-69dbcc55334c" name="Default" comment="" />
+>>>>>>> 9ffd03e54d2030350c75e0e49bf884a23401f88f
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,7 @@
       <file leaf-file-name="Mol_FInder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mol_FInder.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -42,6 +47,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+=======
+            <state relative-caret-position="648">
+              <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+>>>>>>> 9ffd03e54d2030350c75e0e49bf884a23401f88f
             </state>
           </provider>
         </entry>
@@ -104,6 +116,11 @@
             <path>
               <item name="MD_data_read" type="b2602c69:ProjectViewProjectNode" />
               <item name="MD_data_read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MD_data_read" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MD_data_read" type="462c0819:PsiDirectoryNode" />
+              <item name="20_March_2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +268,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/XYZ_data_read.py" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Working_MD_Data_read.ipynb" />
     <entry file="file://$PROJECT_DIR$/Testing.py" />
     <entry file="file://$PROJECT_DIR$/test2.xyz" />
@@ -258,6 +276,39 @@
     <entry file="file://$PROJECT_DIR$/current.py" />
     <entry file="file://$PROJECT_DIR$/test.xyz" />
     <entry file="file://$PROJECT_DIR$/test.py" />
+=======
+    <entry file="file://$PROJECT_DIR$/Testing.py" />
+    <entry file="file://$PROJECT_DIR$/XYZ_data_read.py" />
+    <entry file="file://$PROJECT_DIR$/XYZ_data_read.py" />
+    <entry file="file://$PROJECT_DIR$/Working_MD_Data_read.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Testing.py" />
+    <entry file="file://$PROJECT_DIR$/test2.xyz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZ_data_read.py" />
+    <entry file="file://$PROJECT_DIR$/current.py" />
+    <entry file="file://$PROJECT_DIR$/test.xyz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 9ffd03e54d2030350c75e0e49bf884a23401f88f
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -371,6 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="782">
           <caret line="245" column="0" lean-forward="true" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
         </state>
@@ -397,6 +449,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="648">
+          <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+>>>>>>> 9ffd03e54d2030350c75e0e49bf884a23401f88f
         </state>
       </provider>
     </entry>
